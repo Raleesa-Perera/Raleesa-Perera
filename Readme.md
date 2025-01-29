@@ -14,3 +14,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
+
+<div>
+  <a href="https://github.com/Raleesa-Perera/Prime_Cart.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raleesa22&repo=my-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="my-project" />
+</a>
+
+</div>
