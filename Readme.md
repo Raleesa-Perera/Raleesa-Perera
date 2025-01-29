@@ -16,6 +16,15 @@
   
 </div>
 
+## Most used languages
+
+<div>
+  <a href="https://github.com/Raleesa-Perera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raleesa-Perera&layout=compact&theme=buefy&hide_border=true" />
+</a>
+
+</div>
+
 ## 📒 Projects
 
 <div>
