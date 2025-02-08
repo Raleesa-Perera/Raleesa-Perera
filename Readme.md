@@ -16,6 +16,7 @@
   
 </div>
 
+<!--
 ## Most used languages
 
 <div>
@@ -25,6 +26,7 @@
 </a>
 
 </div>
+-->
 
 ## 📒 Projects
 
