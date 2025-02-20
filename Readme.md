@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Hi! I'm Raleesa Svini Perera </h1>
+  <h1> Hi! I'm Raleesa Svini Perera 👋</h1>
 
 </div>
 
@@ -31,10 +31,6 @@
 ### 📊 **GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raleesa-Perera&theme=tokyonight" width="400" />
 </p>
 
 ## 📒 Projects
