@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raleesap&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raleesa-Perera&theme=tokyonight" width="400" />
 </p>
 
 ## 📒 Projects
