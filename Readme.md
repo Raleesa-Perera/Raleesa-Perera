@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
-## 📒 Projects
+<!--## 📒 Projects
 
 <div>
   
@@ -47,7 +47,7 @@
   <a href="https://github.com/Raleesa-Perera/ML-Competitions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=ML-Competitions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML-Competitions" />
 </a>
-
+-->
 ## 📒 Projects
 
 <div style="display: flex; justify-content: space-around; gap: 50px;">
