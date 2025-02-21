@@ -6,7 +6,7 @@
 ### 👩‍💻 **About Me**
 - 🎓 **Computer Science and Engineering Student** 
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <br>
@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=ML-Competitions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML-Competitions" />
 </a>
 -->
-## 📒 Projects
+### 📒 Projects
 
 <div style="display: flex; justify-content: space-around; gap: 50px;">
   <a href="https://github.com/Raleesa-Perera/Prime_Cart">
