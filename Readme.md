@@ -3,6 +3,9 @@
 
 </div>
 
+### 👩‍💻 **About Me**
+- 🎓 **Computer Science and Engineering Student** 
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
