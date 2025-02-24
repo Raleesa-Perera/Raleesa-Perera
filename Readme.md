@@ -48,6 +48,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
+![Raleesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=radical)
 
 <!--## 📒 Projects
 
