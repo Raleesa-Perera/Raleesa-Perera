@@ -5,8 +5,8 @@
 
 ### 👩‍💻 **About Me**
 - 🎓 **Computer Science and Engineering Student**
-- ⭐ **Passionate about Machine Learning and Web Development**
-
+- ⭐ Passionate about **Machine Learning and Web Development**
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -48,7 +48,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
-![Raleesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=radical)
+
 
 <!--## 📒 Projects
 
