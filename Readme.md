@@ -4,7 +4,8 @@
 </div>
 
 ### 👩‍💻 **About Me**
-- 🎓 **Computer Science and Engineering Student** 
+- 🎓 **Computer Science and Engineering Student**
+- ⭐ **Passionate about Machine Learning and Web Development**
 
 ### :hammer_and_wrench: Languages and Tools :
 
