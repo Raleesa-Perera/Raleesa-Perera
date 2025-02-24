@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <h1> Hi! I'm Raleesa Svini Perera 👋</h1>
-
 </div>
-
+---
 ### 👩‍💻 **About Me**
 - 🎓 **Computer Science and Engineering Student**
 - ⭐ Passionate about **Machine Learning and Web Development**
@@ -27,9 +26,6 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-
-   
-
 </div>
 
 <!--
@@ -43,7 +39,7 @@
 
 </div>
 -->
-
+---
 ### 📊 **GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
