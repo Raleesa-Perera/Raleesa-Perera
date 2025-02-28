@@ -4,7 +4,7 @@
 
 ### 👩‍💻 **About Me**
 - 🎓 **Computer Science and Engineering Student**
-- ⭐ Passionate about **Machine Learning and Web Development**
+- ⭐ **Passionate about Machine Learning and Web Development**
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
