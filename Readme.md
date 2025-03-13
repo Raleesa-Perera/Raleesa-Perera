@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raleesa-Perera)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--## 📒 Projects
