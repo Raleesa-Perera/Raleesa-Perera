@@ -44,6 +44,7 @@
 
 ### 🌐 Connect with Me
 
-<p>Github : </p>
+<p>GitHub: <a href="https://github.com/Raleesa-Perera" target="_blank">https://github.com/Raleesa-Perera</a></p>
+
 
 
