@@ -2,10 +2,13 @@
   <h1> Hi! I'm Raleesa Svini Perera 👋</h1>
 </div>
 
+<div>
+
 ### 👩‍💻 **About Me**
 - 🎓 **Computer Science and Engineering Student, University of Moratuwa**
 - ⭐ **Passionate about Machine Learning and Web Development**
----
+
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
