@@ -39,9 +39,6 @@
 </div>
 
 
-
-
-
 <!--## Most used languages
 
 <div>
@@ -58,40 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raleesa-Perera)](https://github.com/ryo-ma/github-profile-trophy)
--->
+### 🌐 Connect with Me
 
 
-<!--## 📒 Projects
-
-<div>
-  
-  <a href="https://github.com/Raleesa-Perera/Prime_Cart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=Prime_Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Prime_Cart" />
-</a>
-  
-</div>
-
-<div>
-  <a href="https://github.com/Raleesa-Perera/ML-Competitions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=ML-Competitions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML-Competitions" />
-</a>
--->
-<!--### 📒 Projects
-
-<div style="display: flex; justify-content: space-around; gap: 50px;">
-  <a href="https://github.com/Raleesa-Perera/Prime_Cart">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=Prime_Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Prime_Cart" />
-  </a>
-
-  <a href="https://github.com/Raleesa-Perera/ML-Competitions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raleesa-Perera&repo=ML-Competitions&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML-Competitions" />
-</a>
-
-</div>
--->
-
-
-</div>
