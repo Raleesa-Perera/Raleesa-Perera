@@ -31,6 +31,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </div>
 
+### 💼 Projects Spotlight
+
+- 🚚 [**Prime Cart**](https://github.com/Raleesa-Perera/Prime_Cart): E-commerce platform with secure checkout and admin panel.
+- 🧠 [**ML Competitions**](https://github.com/Raleesa-Perera/ML-Competitions): My submissions and solutions for machine learning challenges.
+
+
 <!--
 ## Most used languages
 
