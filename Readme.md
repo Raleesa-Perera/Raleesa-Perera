@@ -35,26 +35,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
  
-
 </div>
 
 
-<!--## Most used languages
-
-<div>
-  <a href="https://github.com/Raleesa-Perera">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raleesa-Perera&layout=compact&theme=buefy&hide_border=true" />
-
-</a>
-
-</div>-->
-
----
 ### 📊 **GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
 ### 🌐 Connect with Me
+
+<p>Github : </p>
 
 
