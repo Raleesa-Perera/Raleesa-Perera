@@ -37,14 +37,15 @@
 </div>
 
 
-### 📊 **GitHub Stats**
+<h4>📊 GitHub Stats</h4>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
-### 🌐 Connect with Me
 
-<p>GitHub: <a href="https://github.com/Raleesa-Perera" target="_blank">https://github.com/Raleesa-Perera</a></p>
+<h4>🌐 Connect with Me </h4>
+
+<p>GitHub : <a href="https://github.com/Raleesa-Perera" target="_blank">https://github.com/Raleesa-Perera</a></p>
 
 
 
