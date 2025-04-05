@@ -5,8 +5,8 @@
 <div>
 
 <h2>👩‍💻 About Me </h2>
-- 🎓 **Computer Science and Engineering Student, University of Moratuwa**
-- ⭐ **Passionate about Machine Learning and Web Development**
+-<p>🎓 **Computer Science and Engineering Student, University of Moratuwa**</p> 
+-<p>>⭐ **Passionate about Machine Learning and Web Development**</p>
 
 </div>
 
