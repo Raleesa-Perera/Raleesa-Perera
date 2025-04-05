@@ -37,13 +37,13 @@
 </div>
 
 
-<h4>📊 GitHub Stats</h4>
+<h2>📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
 
-<h4>🌐 Connect with Me </h4>
+<h2>🌐 Connect with Me </h2>
 
 <p>GitHub : <a href="https://github.com/Raleesa-Perera" target="_blank">https://github.com/Raleesa-Perera</a></p>
 
