@@ -34,9 +34,17 @@
 
 <h4> Machine Learning & Data Science</h4>
 
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" title="NumPy">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="40" title="Keras">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" title="LangChain">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/61407316?s=200&v=4" width="40" title="FAISS">&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/33148128?s=200&v=4" width="40" title="BAAI">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter Notebooks">&nbsp;
 </div>
 
 <h4> Databases</h4>
