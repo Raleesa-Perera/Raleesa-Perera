@@ -13,7 +13,7 @@
 
 <h4>💻 Programming Languages</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,tailwind&perline=10" />
 </div>
 
 <h4>🖥️ Libraries & Frameworks</h4>
