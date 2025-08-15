@@ -11,39 +11,36 @@
 
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
 
-<div>
- <h4> Programming Languages</h4>
-  
+<h4>💻 Programming Languages</h4>
 <div>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript&perline=6" />
 </div>
-  
-<h4> Libraries & Frameworks</h4>
 
+<h4>🖥️ Libraries & Frameworks</h4>
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&perline=6" />
 </div>
 
-<h4> Machine Learning & Data Science</h4>
-
+<h4>🤖 Machine Learning & Data Science</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,pytorch&perline=6" />
-</div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" title="NumPy">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" title="Keras">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter Notebooks">&nbsp;
-
-
-<p>
- 
+  <!-- skillicons-supported -->
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=6" />
+  
+  <!-- missing from skillicons -->
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="40" title="NumPy" />
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" width="40" title="Pandas" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" title="Keras" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter Notebooks" />
+  
+  <!-- custom icons -->
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" title="LangChain" />
-</p>
+  <img src="https://avatars.githubusercontent.com/u/61407316?s=200&v=4" width="40" title="FAISS" />
+  <img src="https://avatars.githubusercontent.com/u/33148128?s=200&v=4" width="40" title="BAAI" />
+</div>
 
-<h4> Databases & Tools</h4>
-
+<h4>🗄️ Databases & Tools</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker,aws,gcp,azure&perline=6" />
 </div>
 
 
