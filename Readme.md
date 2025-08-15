@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas">&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" width="40" title="Keras">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" title="Keras">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch">&nbsp;
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" title="LangChain">&nbsp;
   <img src="https://avatars.githubusercontent.com/u/61407316?s=200&v=4" width="40" title="FAISS">&nbsp;
@@ -55,8 +55,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" title="Git">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker">&nbsp;
 </div>
+
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+</div>
  
 </div>
+
+
 
 
 <h2>📊 GitHub Stats</h2>
