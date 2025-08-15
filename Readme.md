@@ -21,7 +21,7 @@
 <h4> Libraries & Frameworks</h4>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,vue,flutter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&perline=6" />
 </div>
 
 <h4> Machine Learning & Data Science</h4>
@@ -39,12 +39,10 @@
 <h4> Databases & Tools</h4>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker,aws,gcp,azure&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&perline=6" />
 </div>
 
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" title="hello">&nbsp;
-</div>
+
 
  
 </div>
