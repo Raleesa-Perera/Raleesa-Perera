@@ -27,7 +27,7 @@
 <h4> Machine Learning & Data Science</h4>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,keras,pytorch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,keras,pytorch&perline=6" />
 </div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" title="NumPy">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas">&nbsp;
