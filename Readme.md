@@ -31,9 +31,12 @@
 </div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" title="NumPy">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" width="40" title="Keras">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter Notebooks">&nbsp;
+
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jupyter&perline=6" />
+ 
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" title="LangChain" />
 </p>
 
