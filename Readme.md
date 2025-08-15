@@ -57,9 +57,9 @@
 </div>
 
 <div>
- <img src="(https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]" width="40" title="hello">&nbsp
-
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" title="hello">&nbsp;
 </div>
+
  
 </div>
 
