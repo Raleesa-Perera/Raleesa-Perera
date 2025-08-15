@@ -57,7 +57,7 @@
 </div>
 
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ <img src="(https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]" width="40" title="hello">&nbsp
 
 </div>
  
