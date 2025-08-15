@@ -34,13 +34,12 @@
   
   <!-- custom icons -->
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" title="LangChain" />
-  <img src="https://avatars.githubusercontent.com/u/61407316?s=200&v=4" width="40" title="FAISS" />
-  <img src="https://avatars.githubusercontent.com/u/33148128?s=200&v=4" width="40" title="BAAI" />
+  
 </div>
 
 <h4>🗄️ Databases & Tools</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker,aws,gcp,azure&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&perline=6" />
 </div>
 
 
