@@ -13,7 +13,7 @@
 
 <h4>💻 Programming Languages</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,tailwind&perline=6" />
 </div>
 
 <h4>🖥️ Libraries & Frameworks</h4>
@@ -40,6 +40,12 @@
 <h4>🗄️ Databases & Tools</h4>
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&perline=6" />
+</div>
+
+
+<h4> Other Tools</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,latex,postman&perline=6" />
 </div>
 
 
