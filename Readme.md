@@ -56,10 +56,10 @@
 
 
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Raleesa-Perera&show_icons=true&theme=tokyonight" width="48%">
-</p>
+</p> -->
 
 
 <h2>🌐 Connect with Me </h2>
